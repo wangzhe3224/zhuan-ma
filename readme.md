@@ -8,6 +8,12 @@
 本文意在根据不同情况，用最少的课建立计算机框架、掌握转码面试基本技能。全部跟下来大概需要 200 小时，
 即 3 - 4 个月时间。
 
+视频介绍：
+
+- [油管](https://www.youtube.com/watch?v=hTjn0gRUnog)
+- [B站](https://www.bilibili.com/video/BV1wV4y1G7B2/#reply859358524)
+- [知乎](https://www.zhihu.com/zvideo/1567297509667684352)
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=wangzhe3224/zhuan-ma&type=Timeline)](https://star-history.com/#wangzhe3224/zhuan-ma&Timeline)
