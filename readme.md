@@ -5,7 +5,8 @@
 
 点这里开始：https://wangzhe3224.github.io/zhuan-ma/
 
-https://star-history.com/#wangzhe3224/zhuan-ma&Timeline
+本文意在根据不同情况，用最少的课建立计算机框架、掌握转码面试基本技能。全部跟下来大概需要 200 小时，
+即 3 - 4 个月时间。
 
 ## Star History
 

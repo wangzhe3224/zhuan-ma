@@ -3,13 +3,13 @@ comments: true
 status: new
 ---
 
+# 转码路线图
+
 ??? info "不要错过本站更新哦！如下订阅 ⬇️"
     1. 访问：<a href="https://github.com/wangzhe3224/zhuan-ma" target="_blank" rel="noopener">https://github.com/wangzhe3224/zhuan-ma</a>
     2. 点击 Watch -> Custom -> Release
     3. 泛泛会在每次内容更新后 release！
     ![20221021225015](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221021225015.png)
-
-# 转码路线图
 
 > 注意；这**不是**一个计算机自学指南，这也**不是**一个 Leetcode 刷题指南。
 > 这是一个帮助你转码的路线图，希望通过它帮助你快速实现职业转变，并且为未来的职业打好基础。
