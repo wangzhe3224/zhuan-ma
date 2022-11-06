@@ -94,6 +94,7 @@ nav:
     - Leetcode刷题: "core/leetcode.md"
     - MIT Missing: "core/mit_missing.md"
     - 中文核心内容: "core/core_cn.md"
+    - 核心书籍: "core/core_books.md"
   - 进阶:
     - 进阶: 'advanced/advanced.md'
   - 转码心得:
