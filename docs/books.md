@@ -83,4 +83,10 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 
 ## 数据结构和算法
 
-todo...
+### 算法设计手册
+
+为什么米有直接推荐红宝书和算法导论呢？因为这一本更容易读，且配套资源更加丰富。
+
+![20221106165122](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221106165122.png)
+
+如果你更喜欢视频课程，[Skiena 慷慨地提供了他的课程](https://www3.cs.stonybrook.edu/~skiena/373/videos/)。
