@@ -55,10 +55,6 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 
 ![20221106164551](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221106164551.png)
 
-## 数据结构和算法
-
-
-
 ## 计算机组成原理
 
 这部分通常是自底向上的学习计算机的过程。
@@ -90,3 +86,39 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 ![20221106165122](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221106165122.png)
 
 如果你更喜欢视频课程，[Skiena 慷慨地提供了他的课程](https://www3.cs.stonybrook.edu/~skiena/373/videos/)。
+
+## 操作系统
+
+操作系统有很多经典书籍，但是我推荐《操作系统导论》（Operating Systems: Three Easy Piece）。
+为什么是这本书？
+
+- [免费](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- 讲述方法平易近人
+- 作业、项目都有配套，理论不脱离实际
+
+![20221108161623](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221108161623.png)
+
+## 编译原理
+
+编译原理我推荐 [Crafting Interpreter](https://craftinginterpreters.com/contents.html)。
+这本书也是免费开源的，而且实践性很强，适合跟着一起做。
+
+![20221108161919](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221108161919.png)
+
+## 数学书
+
+泛泛这些年的经验，起码在我做程序员的这几年时间（量化对冲基金）对我最有用的数学并不是离散数学、计算理论、
+和微积分，而是 **线性代数** 和 **概率论**。
+
+### Introduction to Linear Algebra
+
+如果你没有学过线性代数，Strang 的这本书最适合不过了。这书非常详实。但是，学习数学本身就是一个
+消耗时间的事情，而却需要动手亲自计算、推导，才会有所得。
+
+![20221108162620](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221108162620.png)
+
+### Linear Algebra Done Right
+
+如果你学过线性代数且学的还可以，那么这本书比较适合重拾一些遗忘的线代概念。
+
+![20221108162834](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221108162834.png)
