@@ -23,6 +23,8 @@ status: new
 
 [精简转码路线图](core/core.md){ .md-button }
 
+[使用指南视频](https://www.bilibili.com/video/BV1wV4y1G7B2/?vd_source=da65fd0f11a3d90e543b48cf26e65fb7){ .md-button }
+
 ## 问题出在哪里？
 
 大家怀着不同的目的选择转码，为了兴趣、为了更好的收入、为了家人等等，无论如何既然选择，就应该坚持。
