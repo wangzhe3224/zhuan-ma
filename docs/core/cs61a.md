@@ -20,7 +20,7 @@ status: new
 解释器等等。SICP 原书通篇都是 Scheme 进行讲解的，原书作者解释是因为 Scheme 是最简单的可以
 诠释本书内容的语言。Lisp 固然是极好的语言，学习它对学习编程特别有帮助。
 
-最后，课程海世纪了一些关于数据库和 SQL 的内容。
+最后，课程还涉及了一些关于数据库和 SQL 的内容。
 
 这么课程设计的非常好，即平易近人，有让人领略了 SICP 的精华。老师们还开发了一个可视化的 Python
 执行解释软件，帮助学生理解程序的[执行原理](https://pythontutor.com/cp/composingprograms.html#code=def%20hi%28%29%3A%0A%20%20%20%20print%28%22hi%22%29%0A%20%20%20%20%0Ahi%28%29&cumulative=true&curInstr=4&mode=display&origin=composingprograms.js&py=3&rawInputLstJSON=%5B%5D)。
