@@ -60,28 +60,6 @@ The Elements of Computer Systems: Building a Modern Computer from First Principl
 
 ![20221106164551](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221106164551.png)
 
-## 计算机组成原理
-
-这部分通常是自底向上的学习计算机的过程。
-
-### 深入理解计算机系统
-
-Computer Systems: A Programmer's Perspective
-
-> 我们喜爱《深入理解计算机系统》，因为它的实用性，并且站在程序员的视角。虽然计算机体系结构的内容比本书所涉及的内容多得多，但对于那些想了解计算机系统以求编写更快、更高效、更可靠的软件的人来说，这本书是很好的起点。
-> https://github.com/izackwu/TeachYourselfCS-CN/blob/master/TeachYourselfCS-CN.md
-
-![20221106164313](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221106164313.png)
-
-### 计算机系统要素
-
-The Elements of Computer Systems: Building a Modern Computer from First Principles
-
-这是一本项目为导向的书，通过这本书读者可以从逻辑电路开始构造计算机，逐渐向上，编译器、操作系统、计算机预言
-等等，全部亲手操作一遍。
-
-![20221106164551](https://raw.githubusercontent.com/wangzhe3224/pic_repo/master/images/20221106164551.png)
-
 ## 数据结构和算法
 
 ### 算法设计手册
