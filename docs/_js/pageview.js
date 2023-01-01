@@ -8,8 +8,8 @@ var initAll = function () {
     ele.appendChild(count);
     var divider =document.createElement("hr")
 
-    document.getElementsByClassName("md-source-file")[0].appendChild(ele);
-    document.getElementsByClassName("md-source-file")[0].appendChild(divider);
+    document.getElementById("__comments").appendChild(ele);
+    document.getElementById("__comments").appendChild(divider);
 };
 
 window.addEventListener('load', initAll);
