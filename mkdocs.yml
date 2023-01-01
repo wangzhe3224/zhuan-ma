@@ -78,6 +78,19 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
+plugins:
+  - tags
+  # doc : https://timvink.github.io/mkdocs-git-revision-date-localized-plugin/options/
+  - git-revision-date-localized:
+      custom_format: "%d. %B %Y"
+      timezone: Europe/Amsterdam
+      locale: en
+      fallback_to_build_date: false
+      enable_creation_date: true
+      exclude:
+          - index.md
+      enabled: true
+  
 extra:
   analytics:
     provider: google
