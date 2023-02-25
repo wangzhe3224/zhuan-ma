@@ -97,3 +97,19 @@ status: new
 计算机科学是个充满魅力的学科，让我们开始吧。
 
 [精简转码路线图](core/core.md){ .md-button }
+
+## Buy me a coffee?
+
+<div id="image-table">
+    <table>
+	    <tr>
+            <td style="padding:10px">
+<img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/zhifubao.jpg"  width="60%" height="30%">
+            </td>
+            <td style="padding:10px">
+<img src="https://raw.githubusercontent.com/wangzhe3224/landing/main/content/en/weixin.jpg"  width="95%" height="40%">
+            </td>
+        </tr>
+    </table>
+</div>
+
