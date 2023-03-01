@@ -33,3 +33,10 @@ status: new
 
 - [课程链接](https://cs61a.org/)
 - [B站链接](https://www.bilibili.com/video/BV1s3411G7yM?p=99&vd_source=da65fd0f11a3d90e543b48cf26e65fb7)
+
+
+🔥 🔥 CS61A 的辅导: https://www.xiaohongshu.com/goods-detail/63fe653b73120d0001b0899f 
+
+️⬇⬇⬇⬇⬇⬇ 泛泛的群聊 ⬇⬇⬇⬇⬇⬇⬇
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RlPaeuj" data-context="false" ><a href="//imgur.com/a/RlPaeuj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
