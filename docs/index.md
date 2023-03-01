@@ -25,6 +25,11 @@ status: new
 
 [使用指南视频](https://www.bilibili.com/video/BV1wV4y1G7B2/?vd_source=da65fd0f11a3d90e543b48cf26e65fb7){ .md-button }
 
+🔥🔥 [CS61A 一对一辅导](https://www.xiaohongshu.com/goods-detail/63fe653b73120d0001b0899f)
+
+️⬇⬇⬇⬇⬇⬇ 加入泛泛的群聊 ⬇⬇⬇⬇⬇⬇⬇
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/RlPaeuj" data-context="false" ><a href="//imgur.com/a/RlPaeuj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 ## 问题出在哪里？
 
 大家怀着不同的目的选择转码，为了兴趣、为了更好的收入、为了家人等等，无论如何既然选择，就应该坚持。
