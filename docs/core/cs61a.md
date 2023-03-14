@@ -33,6 +33,7 @@ status: new
 
 - [课程链接](https://cs61a.org/)
 - [B站链接](https://www.bilibili.com/video/BV1s3411G7yM?p=99&vd_source=da65fd0f11a3d90e543b48cf26e65fb7)
+- [视频配套资料](https://inst.eecs.berkeley.edu/~cs61a/fa20/)
 
 🔥🔥 [CS61A 一对一辅导](https://www.xiaohongshu.com/goods-detail/63fe653b73120d0001b0899f)
 
