@@ -27,9 +27,9 @@ status: new
 
 🔥🔥 [CS61A 一对一辅导](https://www.xiaohongshu.com/goods-detail/63fe653b73120d0001b0899f)
 
-️⬇⬇⬇⬇⬇⬇ 加入泛泛的群聊 ⬇⬇⬇⬇⬇⬇⬇
+️⬇⬇⬇⬇ 加入泛泛的群聊 (1群满了，请关注公众号，相关群和其他信息会在公众号推送) ⬇⬇⬇⬇
 
-<img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/wechat.jpg"  width="30%" height="15%">
+<img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/wechat.jpg"  width="30%" height="15%"> <img src="https://funcoder-assets.s3.ap-east-1.amazonaws.com/public_channel.JPG"  width="30%" height="15%">
 
 ## 问题出在哪里？
 
