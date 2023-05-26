@@ -19,5 +19,3 @@
 [![Star History Chart](https://api.star-history.com/svg?repos=wangzhe3224/zhuan-ma&type=Timeline)](https://star-history.com/#wangzhe3224/zhuan-ma&Timeline)
 
 ## Buy me a coffee?
-
-![](./zhifubao.jpg)
